@@ -1,0 +1,78 @@
+body {
+  background-image: url("/Users/carole/Dropbox/Gomycode/CSS/Checkpoint/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 35px;
+  color: #493c54;
+  margin-bottom: -7px;
+}
+
+.logo {
+  height: 1000px;
+  margin-top: -250px;
+  margin-bottom: -400px;
+}
+nav {
+  margin-left: 200px;
+}
+.navigator {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 45px;
+  color: #493c54;
+}
+a:visited {
+  color: #5d4d6b;
+  text-decoration: none;
+}
+
+a:link {
+  color: #493c54;
+  text-decoration: none;
+}
+
+main {
+  margin-left: 240px;
+  margin-right: 500px;
+}
+
+h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 25px;
+  color: #5d4d6b;
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.contact {
+  color: #e0bec7;
+  margin-bottom: 5px;
+}
+
+.button {
+  border-radius: 12px;
+}
+input {
+  background-color: #edd2d9;
+}
+
+footer {
+  font-family: "Lobster", cursive;
+  font-size: 15px;
+  color: #e0bec7;
+  margin-left: 240px;
+  margin-bottom: 50px;
+}
+footer a:link {
+  color: #e0bec7;
+}
+
+footer a:visited {
+  color: #e0bec7;
+}
